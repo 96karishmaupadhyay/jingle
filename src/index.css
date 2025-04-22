@@ -1,0 +1,8 @@
+@import "tailwindcss";
+@theme{
+  --font-primary:"Inconsolata" ;
+  --color-primary:#0F4C81;
+  --color-secondary:#F0EBD8;
+  --color-tertiary:#D4AF37;
+  --color-fourth:#1E1E1E;
+}
