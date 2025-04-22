@@ -13,7 +13,7 @@ const Services = () => {
       </p>
       </div>
       
-      <div className="flex justify-between gap-8 mt-16 mb-16 m-10">
+      <div className="flex justify-center gap-8 mt-16 mb-16 m-10">
         <ServiceCard/>
       </div>
     </div>
